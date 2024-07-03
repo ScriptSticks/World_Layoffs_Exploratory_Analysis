@@ -15,4 +15,4 @@ Learning Takeaways
 5.  Data Insights:
     Extracted meaningful insights from the datasets using SQL.
 
-    View the data set: https://tinyurl.com/2rb5cwwb
+    View the data set: https://drive.google.com/file/d/1eV5x4djY3uANJ2lp1K9J0RIy3Q7k69UE/view?usp=drive_link
